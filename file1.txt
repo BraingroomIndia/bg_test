@@ -2,4 +2,4 @@ suresh changed -
 
 file1 - B1 - Changed
 
-B1 Bug Fixed
+B1 Bug
